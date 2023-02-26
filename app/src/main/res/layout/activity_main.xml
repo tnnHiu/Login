@@ -68,6 +68,7 @@
         android:layout_marginLeft="32dp"
         android:layout_marginTop="24dp"
         android:layout_marginRight="32dp"
+        android:background="@color/cardview_dark_background"
         android:text="@string/loginbtn" />
 
 
@@ -80,6 +81,7 @@
         android:gravity="center"
         android:textColor="#F44336"
         android:textSize="16dp"
+
         tools:text="" />
 
 
